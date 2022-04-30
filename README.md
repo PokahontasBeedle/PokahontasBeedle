@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**PokahontasBeedle/PokahontasBeedle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Elizaveta 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm student at school 21 🇷🇺</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PokahontasBeedle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PokahontasBeedle&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
